@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github.com/pbnj.png" alt="Profile photo" width="300" align="center" />
-
 ## About Me
 
 Peter Benjamin is a Software Engineer and a Developer Advocate with a background
