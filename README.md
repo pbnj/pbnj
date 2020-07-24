@@ -1,9 +1,12 @@
-### Hi there 👋
+<img src="causeascene-guiding-principles-twitter-banner.png" />
 
-- 🔭 Experienced in **Kubernetes**, **Go**, **Information Security** (OffSec, AppSec, SecOps)
-- 🌱 Learning **Rust**
-- 📫 How to reach me: 
-  - [Twitter](https://twitter.com/petermbenjamin)
-  - [LinkedIn](https://linkedin.com/in/pbnj)
-- 😄 Pronouns: **he/him**, **they/them**
+### Hello 👋🏽
+
+- 🔭 Experienced in:
+  -  ☸️ Kubernetes
+  -  🐹 Go
+  - 👨🏽‍💻 Information Security (OffSec, AppSec, SecOps)
+- 🌱 Learning **Rust** 🦀
+- 📫 Reach me on [Twitter](https://twitter.com/petermbenjamin) 🐦 
+- 🙂 Pronouns: **he/him**, **they/them**
 - ⚡ My website: [pbnj.dev](https://pbnj.dev)
