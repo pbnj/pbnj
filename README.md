@@ -1,4 +1,4 @@
-<img src="causeascene-guiding-principles-twitter-banner.png" />
+<img src="./causeascene-guiding-principles-twitter-banner.png" />
 
 ### Hello 👋🏽
 
