@@ -10,6 +10,6 @@
 - 🌱 Learning **Rust** 🦀
 - 📫 My socials: [🐦](https://twitter.com/petermbenjamin) 🐦 
 - 🙂 My pronouns: **he/they**, **هو/هم**
-- 📄 My website: [pbnj.dev](https://pbnj.dev)
+<!-- - 📄 My website: [pbnj.dev](https://pbnj.dev) -->
 
 [![Peter's Github Stats](https://github-readme-stats.vercel.app/api?username=pbnj)](https://github.com/anuraghazra/github-readme-stats)
