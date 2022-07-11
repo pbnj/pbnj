@@ -8,7 +8,7 @@
   - 🐢🚀 NodeJS / TypeScript
   - 🔐 Information Security (OffSec, AppSec, SecOps, SecEng)
 - 🌱 Learning **Rust** 🦀
-- 📫 My socials: [🐦](https://twitter.com/petermbenjamin) 🐦 
+<!-- - 📫 My socials: [🐦](https://twitter.com/petermbenjamin) -->
 - 🙂 My pronouns: **he/they**, **هو/هم**
 <!-- - 📄 My website: [pbnj.dev](https://pbnj.dev) -->
 
