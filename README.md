@@ -2,14 +2,11 @@
 
 ### Hello 👋🏽
 
-- 💪 Experienced in:
-  - ☸️ Kubernetes
-  - 🐹 Go
-  - 🐢🚀 NodeJS / TypeScript
-  - 🔐 Information Security (OffSec, AppSec, SecOps, SecEng)
-- 🌱 Learning **Rust** 🦀
-<!-- - 📫 My socials: [🐦](https://twitter.com/petermbenjamin) -->
-- 🙂 My pronouns: **he/they**, **هو/هم**
-<!-- - 📄 My website: [pbnj.dev](https://pbnj.dev) -->
+- Experienced in:
+  - Kubernetes & containers
+  - Go programming language
+  - Information Security, specifically Offensive Security (OffSec) & Application Security (AppSec)
+- Learning **Rust**
+- 🙂 My pronouns: **they/them**, **هم**
 
 [![Peter's Github Stats](https://github-readme-stats.vercel.app/api?username=pbnj)](https://github.com/anuraghazra/github-readme-stats)
