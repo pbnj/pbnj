@@ -1,5 +1,3 @@
-<img src="https://github.com/pbnj/pbnj/raw/master/causeascene-guiding-principles-twitter-banner.png" />
-
 ### Hello 👋🏽
 
 - My pronouns: **they/them**, **هم**
