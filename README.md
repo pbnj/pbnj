@@ -7,5 +7,5 @@
   - **Information Security**, specifically Offensive Security (OffSec) & Application Security (AppSec)
 - Learning **Rust**
 - Socials:
-  - <a rel="me" href="https://hachyderm.io/@pbnj">🐘</a>
-  - <a href="https://linkedin.com/in/pbnj">🔗</a>
+  - <a rel="me" href="https://hachyderm.io/@pbnj">🐘 https://hachyderm.io/@pbnj</a>
+  - <a href="https://linkedin.com/in/pbnj">🔗 https://linkedin.com/in/pbnj</a>
