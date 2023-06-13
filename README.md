@@ -1,4 +1,3 @@
-<a rel="me" href="https://hachyderm.io/@pbnj">Mastodon</a>
 ### Hello 👋🏽
 
 - My pronouns: **they/them**, **هم**
@@ -7,5 +6,6 @@
   - **Go** programming language
   - **Information Security**, specifically Offensive Security (OffSec) & Application Security (AppSec)
 - Learning **Rust**
-
-[![Peter's Github Stats](https://github-readme-stats.vercel.app/api?username=pbnj)](https://github.com/anuraghazra/github-readme-stats)
+- Socials:
+  - <a rel="me" href="https://hachyderm.io/@pbnj">🐘</a>
+  - <a href="https://linkedin.com/in/pbnj">🔗</a>
